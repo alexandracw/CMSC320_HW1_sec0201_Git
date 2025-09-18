@@ -16,3 +16,9 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: The difference between merging and rebasing is that merging preserves the whole history of your repository as it happened and rebasing 
 actually rewrtes the history by putting changes from one branch at the front of another one, which ends up with a more organized and "linear" is ehat they call it project history. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to UMD soccer and basketball games
+
+
