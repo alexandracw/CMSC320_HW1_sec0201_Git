@@ -1,0 +1,8 @@
+Q1: Why might we consider using Git?
+
+Answer: We might consider using Git for a variety or reasons, the main one for us woul$
+because git allows us to make changes to files and such that are in projects, and it    
+also allows you to manage the changes and it logs it so you can see who and when change$
+were made. Because of this it works great for collaborative workspaces which is what this class has (group project)
+
+
